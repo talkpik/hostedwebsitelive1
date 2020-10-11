@@ -1,0 +1,48 @@
+<ics_components>
+	<module name="icsak">
+		<files>
+			<file src="icsak.dll.gz" dst="icsak.dll" compressed="gzip" md5="f429480749893e04676b996b27863366" size="450664" version="4,2,565,0"/>
+			<file src="icsak.sys.gz" dst="icsak.sys" compressed="gzip" md5="46d83cf72e174771841e38920c989847" size="29288" version="4,2,565,0"/>
+		</files>
+	</module>
+	<module name="icslta">
+		<files>
+			<file src="icslta.dll.gz" dst="icslta.dll" compressed="gzip" md5="3fc93a2bbe37446327122a098e7a9152" size="777960" version="4,2,273,0"/>
+		</files>
+	</module>
+	<module name="icsscan">
+		<files>
+			<file src="icsscan.dll.gz" dst="icsscan.dll" compressed="gzip" md5="fede68a9ab3b0469ffc64246f83befc3" size="12050176" version="4,2,564,72"/>
+		</files>
+	</module>
+	<module name="icssws">
+		<files>
+			<file src="../custom/ISW_icon_unsecured.ico" dst="ISW_icon_unsecured.ico" optional="yes"/>
+			<file src="../custom/ISW_icon_secured.ico" dst="ISW_icon_secured.ico" optional="yes"/>
+			<file src="../custom/ISW_dlg_title.bmp" dst="ISW_dlg_title.bmp" optional="yes"/>
+			<file src="../custom/ISW_start_menu.bmp" dst="ISW_start_menu.bmp" optional="yes"/>
+			<file src="../custom/ISW_background.jpg" altsrc="CPSWS.jpg" dst="CPSWS.jpg"/>
+			<file src="../custom/ISW_customl.xml" dst="ISW_customl.xml" optional="yes"/>
+			<file src="ISWRCS.dll.gz" dst="ISWRCS.dll" compressed="gzip" md5="64d2c880f3535c0745f97805523f93bb" size="86016" version="4,2,564,0"/>
+			<file src="CPSWS.dll.gz" dst="CPSWS.dll" compressed="gzip" md5="91202649b5ac914571eb1c118247341f" size="318568" version="4,2,564,0"/>
+			<file src="CPSWS.exe.gz" dst="CPSWS.exe" compressed="gzip" md5="d8e1b6efa91bf463b8807151bee6e90c" size="664679" version="4,2,564,0"/>
+		</files>
+	</module>
+	<module name="nortel">
+		<files>
+			<file src="icsweb4x.dll.gz" dst="icsweb4x.dll" compressed="gzip" md5="3a62399913b574b4cd990fc8702f021a" size="388864" version="4,2,564,72"/>
+			<file src="icsnortel.dll.gz" dst="icsnrtl.dll" compressed="gzip" md5="3e6efb65e60dbf9cfff68b3099d56d82" size="118888" version="4,2,564,0"/>
+			<file src="icsscan.exe.gz" dst="icsscan.exe" compressed="gzip" md5="a319c83cdbb8dde2d73b13056940429e" size="577642" version="4,2,564,0"/>
+		</files>
+	</module>
+	<module name="linux_icslta">	
+		<files>
+			<file src="IcsLTA.jar" dst="IcsLTA.jar" compressed="jar" md5="4e3298c15c035daa5f10c81d33042358" size="131059" version="4,2,273,0"/>
+		</files>
+	</module>
+	<module name="fscan">
+		<files>
+			<file src="fscan.dll.gz" dst="fscan.dll" compressed="gzip" md5="d447180b107439abcd8f836723ad5bbc" size="11280384" version="4,2,564,0"/>
+		</files>
+	</module>
+</ics_components>
